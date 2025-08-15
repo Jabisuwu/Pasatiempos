@@ -4,10 +4,10 @@ color: rgb(111, 2, 38);
 }
 p{
     background-color: rgb(245, 59, 121);
-    border: 2px hidden rgb(112, 42, 85);
+    border: 2px none rgb(112, 42, 85);
 }
 img{
-    width: 480px;
-    height: 800px;
+    width: 850px;
+    height: 150px;
     margin: 0 auto;
 }
